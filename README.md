@@ -5,5 +5,3 @@ My goal is to bridge the gap between those who understand data and those that ma
 Outside of work I enjoy being outside climbing, skiing, biking etc. I am currently 5/7 of the way through a personal goal to ski on every continent. And yeah that’s about it, Oh I’m terrified of birds they have swords for mouths it’s very scary.
 
 [Website](https://codyscottjohnson.com/) | [Resume](https://codyscottjohnson.com/Resume/Preview) | [Linkedin](https://www.linkedin.com/in/codyscottjohnson/)
-
-<a href="https://codyscottjohnson.com/"><div style="background:blue;color:white;padding:10px 5px"><img src="">Website</div><a>
