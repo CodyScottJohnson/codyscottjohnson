@@ -1,4 +1,4 @@
-<img style="width:100px" src=""https://raw.githubusercontent.com/codyscottjohnson/AmISam/master/demo/Screen_1_w.png"/>
+<img style="width:100px" src="https://raw.githubusercontent.com/codyscottjohnson/AmISam/master/demo/Screen_1_w.png"/>
 ### Hi, I'm Cody
 **Product Manager | Data Scientist | MBA **
 
